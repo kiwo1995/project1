@@ -1,0 +1,9 @@
+nav.navbar {
+  background-color: #000
+}
+
+
+a.nav-link{
+  background-color: #800;
+  color: #FFF;
+}
