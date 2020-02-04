@@ -84,12 +84,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['registreren'])) {
                     anderen.</small>
                     <label for="Wachtwoord">Wachtwoord</label>
                   <input name="wachtwoord" type="password" class="form-control" id="InputEmail" aria-describedby="emailHelp"
-                    placeholder="Voer uw e-mailadres in..." name="wachtwoord">
+                    placeholder="Voer uw wachtwoord in..." name="wachtwoord">
                   <small id="emailHelp" class="form-text text-muted">Wij zullen nooit uw wachtwoord delen met
                     anderen.</small>
                     <label for="exampleInputname">Bevestig Wachtwoord</label>
                   <input name="bevestigwachtwoord" type="password" class="form-control" id="InputEmail" aria-describedby="emailHelp"
-                    placeholder="Voer uw e-mailadres in..." name="bevestigwachtwoord">
+                    placeholder="Voer uw wachtwoord in..." name="bevestigwachtwoord">
                 </div>
                 <button name="registreren" type="submit" class="btn btn-primary" id="savebutton">Registreren!</button>
               </form>

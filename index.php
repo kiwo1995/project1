@@ -17,7 +17,7 @@
   <body style="background-color:darkred;">
     <div class="row">
       <div class="col-12">
-        <?php include("./parts/banner.php"); ?>
+        <?php include("./parts/links.php"); ?>
       </div>      
     </div>    
     <div class="row">
